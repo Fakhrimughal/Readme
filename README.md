@@ -1,2 +1,2 @@
 # Readme
-Advanced Software Engineering -fall-20
+Advanced Software Engineering -2019/2020
